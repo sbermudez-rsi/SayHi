@@ -1,0 +1,13 @@
+C:\examples\GitHub\workflow\demo05\DeskApp\Core\bin\Debug\net6.0\Core.deps.json
+C:\examples\GitHub\workflow\demo05\DeskApp\Core\bin\Debug\net6.0\Core.dll
+C:\examples\GitHub\workflow\demo05\DeskApp\Core\bin\Debug\net6.0\ref\Core.dll
+C:\examples\GitHub\workflow\demo05\DeskApp\Core\bin\Debug\net6.0\Core.pdb
+C:\examples\GitHub\workflow\demo05\DeskApp\Core\obj\Debug\net6.0\Core.csproj.AssemblyReference.cache
+C:\examples\GitHub\workflow\demo05\DeskApp\Core\obj\Debug\net6.0\Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\examples\GitHub\workflow\demo05\DeskApp\Core\obj\Debug\net6.0\Core.AssemblyInfoInputs.cache
+C:\examples\GitHub\workflow\demo05\DeskApp\Core\obj\Debug\net6.0\Core.AssemblyInfo.cs
+C:\examples\GitHub\workflow\demo05\DeskApp\Core\obj\Debug\net6.0\Core.ImplicitNamespaceImports.cs
+C:\examples\GitHub\workflow\demo05\DeskApp\Core\obj\Debug\net6.0\Core.csproj.CoreCompileInputs.cache
+C:\examples\GitHub\workflow\demo05\DeskApp\Core\obj\Debug\net6.0\Core.dll
+C:\examples\GitHub\workflow\demo05\DeskApp\Core\obj\Debug\net6.0\ref\Core.dll
+C:\examples\GitHub\workflow\demo05\DeskApp\Core\obj\Debug\net6.0\Core.pdb

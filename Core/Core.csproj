@@ -1,0 +1,18 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net6.0</TargetFramework>
+    <Nullable>enable</Nullable>
+    <GeneratePackageOnBuild>True</GeneratePackageOnBuild>
+	  <PackageId>Core</PackageId>
+	  <Authors>Sergio-Bermudez</Authors>
+	  <Description>Demo Say Hello</Description>
+	  <PackageTags>Demo01</PackageTags>
+	  <PackageProjectUrl>https://github.com/sbermudez-rsi/github-actions-test</PackageProjectUrl>
+	  <RepositoryUrl>https://github.com/sbermudez-rsi/github-actions-test</RepositoryUrl>
+	  <RepositoryType>git</RepositoryType>
+	  <IncludeSymbols>true</IncludeSymbols>
+	  <SymbolPackageFormat>snupkg</SymbolPackageFormat>
+  </PropertyGroup>
+
+</Project>

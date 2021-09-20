@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31612.314
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DeskApp", "DeskApp\DeskApp.csproj", "{EAE73F72-425E-4617-834A-B3F38F673508}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Core", "Core\Core.csproj", "{4B21502E-5B0D-4CC7-A5E0-FE0E7B99E863}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EAE73F72-425E-4617-834A-B3F38F673508}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EAE73F72-425E-4617-834A-B3F38F673508}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EAE73F72-425E-4617-834A-B3F38F673508}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EAE73F72-425E-4617-834A-B3F38F673508}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4B21502E-5B0D-4CC7-A5E0-FE0E7B99E863}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4B21502E-5B0D-4CC7-A5E0-FE0E7B99E863}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4B21502E-5B0D-4CC7-A5E0-FE0E7B99E863}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4B21502E-5B0D-4CC7-A5E0-FE0E7B99E863}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {23228A0B-A8F4-41E0-9BE8-3E288F7DE56A}
+	EndGlobalSection
+EndGlobal
