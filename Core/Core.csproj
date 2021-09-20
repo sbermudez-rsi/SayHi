@@ -8,8 +8,8 @@
 	  <Authors>Sergio-Bermudez</Authors>
 	  <Description>Demo Say Hello</Description>
 	  <PackageTags>Demo01</PackageTags>
-	  <PackageProjectUrl>https://github.com/sbermudez-rsi/github-actions-test</PackageProjectUrl>
-	  <RepositoryUrl>https://github.com/sbermudez-rsi/github-actions-test</RepositoryUrl>
+	  <PackageProjectUrl>https://github.com/sbermudez-rsi/SayHi</PackageProjectUrl>
+	  <RepositoryUrl>https://github.com/sbermudez-rsi/SayHi</RepositoryUrl>
 	  <RepositoryType>git</RepositoryType>
 	  <IncludeSymbols>true</IncludeSymbols>
 	  <SymbolPackageFormat>snupkg</SymbolPackageFormat>
